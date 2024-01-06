@@ -1,0 +1,19 @@
+.paragraph {
+  color: #ffffff;
+  text-shadow: 20px 2px 4px rgba(15, 6, 6, 0.8);
+}
+
+.home-background {
+  background: url("C:\Users\westu\OneDrive\Desktop\BMA\src\components\Images\top-view-steel-hammer-with-other-construction-elements-tools_23-2150576412.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(120, 107, 107) 3b3;
+  text-align: center;
+  padding: 50px;
+}
+
+.home-background h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  text-shadow: 10px 2px 4px rgba(15, 6, 6, 0.8);
+}
